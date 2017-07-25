@@ -10,6 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
+    "presets" : {"url": "http://elearning.top.co.id", "username": ""},
     "siteurl": "http://elearning.top.co.id",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
