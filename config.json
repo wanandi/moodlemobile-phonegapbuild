@@ -9,9 +9,9 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "http://elearning.top.co.id",
-    "presets" : {"url": "http://elearning.top.co.id", "username": ""},
-    "siteurl": "http://elearning.top.co.id",
+    "customurlscheme": "elearning.top.co.id",
+    "presets" : {"url": "elearning.top.co.id", "username": ""},
+    "siteurl": "elearning.top.co.id",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
