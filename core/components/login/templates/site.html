@@ -3,10 +3,10 @@
       <button class="button button-icon ion-help-circled" ng-click="showHelp()" aria-label="{{ 'mm.core.help' | translate }}"></button>
   </ion-nav-buttons>
   <ion-content padding="true" id="mm-login-site" mm-state-class class="mm-center-view">
-<div
+    <div
       ng-model="siteurl"
       ng-init="siteurl='http://elearning.top.co.id'" >
-      connect(siteurl)
-</div>              
+      ng-bind="connect(siteurl)"
+</div>
   </ion-content>
 </ion-view>
