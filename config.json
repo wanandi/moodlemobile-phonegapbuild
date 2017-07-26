@@ -1,7 +1,7 @@
 {
     "app_id" : "id.co.top.elearningbytopcoid",
     "appname": "E Learning by TOP.co.id",
-    "versioncode" : "2018",
+    "versioncode" : "201707",
     "versionname" : "3.3.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
