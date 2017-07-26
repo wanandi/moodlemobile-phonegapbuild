@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "id.co.top.elearningbytopcoid"
-        versionCode = "20180"
+        versionCode = "201707"
         version   = "3.3.0"
         >
     <name>E Learning by TOP.co.id</name>
