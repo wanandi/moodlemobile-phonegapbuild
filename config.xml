@@ -5,10 +5,10 @@
         id        = "id.co.top.elearningbytopcoid"
         versionCode = "20180"
         version   = "3.3.0">
-    <name>elearningbytopcoid</name>
+    <name>E Learning by TOP.co.id</name>
 
     <description>
-        E Learning Mobile official app by TOP
+        E Learning Mobile official app by TOP.co.id
     </description>
 
     <author href="https://top.co.id" email="admin@top.co.id">
