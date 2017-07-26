@@ -5,7 +5,6 @@
         id        = "id.co.top.elearningbytopcoid"
         versionCode = "20180"
         version   = "3.3.0"
-        application android:debuggable="false"
         >
     <name>E Learning by TOP.co.id</name>
 
@@ -146,7 +145,7 @@
     <gap:plugin name="ch.ti8m.documenthandler" spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
 
     <gap:config-file platform="android" parent="/manifest">
-         <application android:debuggable="true" />
+         <application android:debuggable="false"/>
     </gap:config-file>
 
     <!-- See MOBILE-892 -->
