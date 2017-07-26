@@ -4,7 +4,9 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "id.co.top.elearningbytopcoid"
         versionCode = "20180"
-        version   = "3.3.0">
+        version   = "3.3.0"
+        application android:debuggable="false"
+        >
     <name>E Learning by TOP.co.id</name>
 
     <description>
