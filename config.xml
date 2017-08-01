@@ -2,14 +2,14 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "id.co.top.elearningbytopcoid"
+        id        = "id.co.top.nextcode"
         versionCode = "201707"
         version   = "3.3.0"
         >
-    <name>E Learning by TOP.co.id</name>
+    <name>NextCODE</name>
 
     <description>
-        E Learning Mobile official app by TOP.co.id
+        NextCODE Mobile official app by TOP.co.id
     </description>
 
     <author href="https://top.co.id" email="admin@top.co.id">
