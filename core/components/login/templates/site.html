@@ -5,11 +5,11 @@
         <div class="text-center padding">
           <img ng-src="img/moodle.png" class="avatar-full  moodle-logo" role="presentation">
         </div>
-        <p class="padding">{{ 'mm.login.newsitedescription' | translate }}</p>
+        <p class="padding">"Wanna Be IT Preneur?"</p>
         <div class="list item item-input">
-          <input type="url" ng-model="siteurl" ng-init="siteurl='elearning.top.co.id'" mm-no-input-validation mm-auto-focus >
+          
         </div>
-          <button class="button button-block button-positive" ng-click="connect(siteurl)" ng-disabled="!siteurl">{{ 'mm.login.connect' | translate }}</button>       
+          <button class="button button-block button-positive" ng-model="siteurl" ng-init="siteurl='elearning.top.co.id'" ng-click="connect(siteurl)" ng-disabled="!siteurl">"YES"</button>       
       </div>
     </form>
   </ion-content>
