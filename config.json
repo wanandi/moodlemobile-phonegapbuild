@@ -1,6 +1,6 @@
 {
-    "app_id" : "id.co.top.elearningbytopcoid",
-    "appname": "E Learning by TOP.co.id",
+    "app_id" : "id.co.top.nextcode",
+    "appname": "NextCODE by TOP.co.id",
     "versioncode" : "201707",
     "versionname" : "3.3.0",
     "cache_expiration_time" : 300000,
@@ -9,9 +9,9 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "elearning.top.co.id",
-    "presets" : {"url": "elearning.top.co.id", "username": ""},
-    "siteurl": "elearning.top.co.id",
+    "customurlscheme": "code.nextgen.web.id",
+    "presets" : {"url": "code.nextgen.web.id", "username": ""},
+    "siteurl": "code.nextgen.web.id",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://top.co.id/privacy-policy/"
